@@ -10,8 +10,8 @@ $('.copyrights').removeClass('hide');
 
 // 渲染头部信息
 let video_list = [
-  ['B站博主', ' -LKs- 《良心到难以置信的网站推荐》', 'https://space.bilibili.com/125526'],
-  ['第一期 av3743771', 'https://www.bilibili.com/video/av3743771/'],
+  ['理财网站导航', 'https://frecode.github.io/FinancialBookmark/'],
+  ['常用理财计算器'],
   ['第二期 av9856372', 'https://www.bilibili.com/video/av9856372/'],
   ['第三期 av27234784', 'https://www.bilibili.com/video/av27234784/'],
   ['第四期 av66209341', 'https://www.bilibili.com/video/av66209341/'],
