@@ -12,7 +12,7 @@ web_list = []
 # 格式化web_*.txt，生成统一格式的临时文件 web_*_out.txt
 for i in range(1, num + 1):
     with open(f'./web_{i}_out.txt', 'w') as fo:
-        with open(f'./web_{i}.txt', 'r') as f:
+        with open(f'./web_{i}.txt', 'r', encoding='UTF-8') as f:
             for line in f:
                 if len(line) < 3:
                     continue
