@@ -6,7 +6,7 @@
 """
 import json
 
-num = 8
+num = 10
 web_list = []
 
 # 格式化web_*.txt，生成统一格式的临时文件 web_*_out.txt
