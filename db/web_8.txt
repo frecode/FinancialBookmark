@@ -1,8 +1,6 @@
-REITs_上交所	http://www.sse.com.cn/disclosure/fund/reits/
-REITs_深交所	http://reits.szse.cn/disclosure/index.html
-REITs_香港_凤凰网	http://app.finance.ifeng.com/data/hkstock/fundamental.php?symbol=00823&type=B
-REITs_港美_集思录	https://www.jisilu.cn/data/hkreits/#hkreits
-REITs_香港_阿思达克	http://aastocks.com/sc/stocks/analysis/company-fundamental/company-profile?symbol=01426
-房地产_国家统计局	http://www.stats.gov.cn/tjgz/wzlj/dftjwz/
-房地产_房价行情	https://www.creprice.cn/
-房地产_LPR利率	http://www.chinamoney.com.cn/chinese/lllpr/
+个人征信中心	http://www.pbccrc.org.cn/
+动产_中登网	https://www.zhongdengwang.org.cn/
+企查查	https://www.qcc.com/?utm_source=baidu&utm_medium=cpc&utm_term=%E6%9F%A5%E6%9F%A5%E4%BC%81
+社会信用代码	https://www.cods.org.cn/
+工信部服务平台	http://ythzxfw.miit.gov.cn/index
+国家企业信用公示	http://www.gsxt.gov.cn/

@@ -1,7 +1,7 @@
-A股年报_同花顺数据导出|http://stockpage.10jqka.com.cn/
-A股年报_巨潮咨询网|http://www.cninfo.com.cn/new/index
-港股年报_披露易|https://www.hkexnews.hk/index_c.htm
-美股年报_美交所|https://www.sec.gov/edgar/searchedgar/companysearch.html
-深圳证券交易所|http://www.szse.cn/
-上海证券交易所|http://www.sse.com.cn/
-阿斯達克財經網|http://www.aastocks.com/
+A鑲″勾鎶鍚岃姳椤轰釜鑲http://stockpage.10jqka.com.cn/
+A鑲″勾鎶宸ㄦ疆鍜ㄨ缃憒http://www.cninfo.com.cn/new/index
+娓偂骞存姤_鎶湶鏄搢https://www.hkexnews.hk/index_c.htm
+缇庤偂骞存姤_缇庤瘉鐩戜細|https://www.sec.gov/edgar/searchedgar/companysearch.html
+娣卞湷璇佸埜浜ゆ槗鎵�|http://www.szse.cn/
+涓婃捣璇佸埜浜ゆ槗鎵�|http://www.sse.com.cn/
+闃挎柉閬斿厠璨＄稉缍瞸http://www.aastocks.com/

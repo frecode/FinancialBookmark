@@ -1,4 +1,9 @@
-仓位在线	http://cwzx.shdjt.com/
-机构持仓_i问财	http://www.iwencai.com/stockpick/search?typed=1&preParams=&ts=1&f=1&qs=index_rewrite&selfsectsn=&querytype=stock&searchfilter=&tid=stockpick&w=%E6%9C%BA%E6%9E%84%E6%8C%81%E8%82%A1%E5%AE%B6%E6%95%B0%E6%8E%92%E5%90%8D
-ETF持仓_i问财	http://www.iwencai.com/stockpick/search?typed=1&preParams=&ts=1&f=1&qs=result_rewrite&selfsectsn=&querytype=fund&searchfilter=&tid=stockpick&w=ETF%EF%BC%8C%E8%82%A1%E7%A5%A8%E5%9E%8B%EF%BC%8C%E8%A7%84%E6%A8%A1%E6%8E%92%E5%BA%8F%EF%BC%8C%E6%88%90%E5%88%86%E8%82%A1
-机构调研_i问财	http://www.iwencai.com/stockpick/search?typed=1&preParams=&ts=1&f=1&qs=result_rewrite&selfsectsn=&querytype=stock&searchfilter=&tid=stockpick&w=%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E6%9C%BA%E6%9E%84%E8%B0%83%E7%A0%94%E6%95%B0%EF%BC%8C%E8%BF%913%E4%B8%AA%E6%9C%88%E6%9C%BA%E6%9E%84%E8%B0%83%E7%A0%94%E6%95%B0%EF%BC%8C%E8%BF%916%E4%B8%AA%E6%9C%88%E6%9C%BA%E6%9E%84%E8%B0%83%E7%A0%94%E6%95%B0&queryarea=
+REITs_上交所	http://www.sse.com.cn/disclosure/fund/reits/
+REITs_深交所	http://reits.szse.cn/disclosure/index.html
+REITs_香港_凤凰网	http://app.finance.ifeng.com/data/hkstock/fundamental.php?symbol=00823&type=B
+REITs_港美_集思录	https://www.jisilu.cn/data/hkreits/#hkreits
+REITs_香港_阿思达克	http://aastocks.com/sc/stocks/analysis/company-fundamental/company-profile?symbol=01426
+房地产_国家统计局	http://www.stats.gov.cn/tjgz/wzlj/dftjwz/
+房地产_房价行情	https://www.creprice.cn/
+房地产_LPR利率	http://www.chinamoney.com.cn/chinese/lllpr/
+房地产_美国十年国债中位数	https://www.multpl.com/10-year-treasury-rate
