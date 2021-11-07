@@ -1,6 +1,3 @@
-国债收益率_中国|https://cn.investing.com/rates-bonds/china-10-year-bond-yield
-国债收益率_美国|https://cn.investing.com/rates-bonds/u.s.-10-year-bond-yield
-美联储利率|https://cn.investing.com/central-banks/
 个股市盈率_亿牛网|https://eniu.com/
 市盈率_A股港美股_乐咕|https://www.legulegu.com/stockdata/box
 市盈率_标普500|https://www.multpl.com/s-p-500-pe-ratio
