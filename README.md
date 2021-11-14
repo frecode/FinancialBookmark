@@ -3,7 +3,8 @@ MG&TG
 ├─css      样式
 │    ├─index.1.2.4.min.css数据库SQL脚本 
 │        ├─蓝色		#1b1875       
-│        ├─红色		#d2204d  
+│        ├─红色		#d2204d 
+	                #4e73df 
 │ 
 ├─db       数据库自动生成
 │        └─web_0_txt2json.py   运行python，生成至web_list.json
