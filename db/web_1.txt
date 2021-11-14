@@ -1,5 +1,0 @@
-微淼计算器	https://m.weimiao.cn/#/myinfo/counter{
-基金定投收益	http://data.eastmoney.com/money/calc/FundCalcDTSY.html{
-房贷计算器	https://www.fangdaijisuanqi.com/{
-上海房贷计算器	http://netloan.shgjj.com/CalcTools/GjjSms{
-恐贪指数	https://funddb.cn/tool/fear{韭圈儿
